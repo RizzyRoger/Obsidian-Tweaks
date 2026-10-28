@@ -1,0 +1,9 @@
+{
+  "id": "rollover-categorical-todos",
+  "name": "Rollover Categorical Todos",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Roll unfinished todos from the previous daily note into today's matching checkbox categories.",
+  "author": "Roger Wei",
+  "isDesktopOnly": false
+}
